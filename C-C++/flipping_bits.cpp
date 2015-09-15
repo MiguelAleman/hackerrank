@@ -1,11 +1,12 @@
 #include <iostream>
+using namespace std;
 
 int main(){
 	int T;
-	std::cin >> T;
+	cin >> T;
 	for (int i = 0; i < T; ++i) {
 		unsigned N;
-		std::cin >> N;
-		std::cout << ~N << std::endl;
+		cin >> N;
+		cout << ~N << endl;
 	}
 }
