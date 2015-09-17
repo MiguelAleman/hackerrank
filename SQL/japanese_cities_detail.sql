@@ -1,1 +1,1 @@
-select * from City where CountryCode='JPN';
+SELECT * FROM City WHERE CountryCode='JPN';

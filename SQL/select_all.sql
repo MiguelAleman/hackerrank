@@ -1,1 +1,1 @@
-select * from City;
+SELECT * FROM City;
