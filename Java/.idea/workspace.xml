@@ -38,7 +38,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithms/implementation/acm_icpc_team/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithms/implementation/taum_and_bday/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sorting/correctness_and_the_loop_invariant/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithms/greedy/jim_and_the_orders/Solution.java" />
@@ -89,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/super_monkey_challenge_II/handshakes/Solution.java" />
         <option value="$PROJECT_DIR$/src/super_monkey_challenge_II/watching_the_clock/Solution.java" />
         <option value="$PROJECT_DIR$/src/java_domain/data_structures/java_1d_array_hard/Solution.java" />
+        <option value="$PROJECT_DIR$/src/java_domain/data_structures/java_2d_array/Solution.java" />
       </list>
     </option>
   </component>
@@ -257,7 +257,7 @@
       <recent name="super_monkey_challenge_II.cat_II" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="false" name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -266,26 +266,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="super_monkey_challenge_II.cat.Solution" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="HackerRank" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="super_monkey_challenge_II.watching_the_clock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="super_monkey_challenge_II.watching_the_clock.Solution" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -346,6 +326,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="java_domain.data_structures.java_1d_array_hard.Solution" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HackerRank" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="java_domain.data_structures.java_2d_array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="java_domain.data_structures.java_2d_array.Solution" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -507,18 +507,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Solution (2)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Solution (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Solution (3)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Solution (4)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Solution (5)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Solution (3)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Solution (4)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Solution (5)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Solution (5)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Solution (4)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Solution (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Solution (3)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Solution (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Solution" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Solution (5)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Solution (4)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Solution (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -624,13 +624,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/project_euler/pe_4/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/insertion_sort_part_2/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30864197">
@@ -975,14 +968,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_domain/data_structures/java_1d_array_hard/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.124197">
-          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/super_monkey_challenge_II/handshakes/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16059957">
@@ -997,6 +982,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42184153">
           <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_domain/data_structures/java_2d_array/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54603857">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_domain/data_structures/java_1d_array_hard/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38543898">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="27" selection-end-column="5" />
           <folding />
         </state>
       </provider>
