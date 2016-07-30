@@ -1,4 +1,4 @@
-package algorithms.regex.alien_username;
+package regex.applications.alien_username;
 
 import java.io.BufferedReader;
 import java.io.IOException;

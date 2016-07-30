@@ -1,4 +1,4 @@
-package algorithms.regex.split_the_phone_numbers;
+package regex.applications.split_the_phone_numbers;
 
 import java.io.BufferedReader;
 import java.io.IOException;

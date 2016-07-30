@@ -1,4 +1,4 @@
-package algorithms.warmup.library_fine;
+package algorithms.implementation.library_fine;
 
 import java.io.PrintStream;
 import java.util.Scanner;

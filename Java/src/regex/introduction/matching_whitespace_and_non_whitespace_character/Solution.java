@@ -1,4 +1,4 @@
-package regex.regex_basics.matching_whitespace_and_non_whitespace_character;
+package regex.introduction.matching_whitespace_and_non_whitespace_character;
 
 import java.util.*;
 import java.util.regex.*;

@@ -1,4 +1,4 @@
-package regex.regex_basics.matching_specific_string;
+package regex.introduction.matching_specific_string;
 
 
 import java.util.Scanner;

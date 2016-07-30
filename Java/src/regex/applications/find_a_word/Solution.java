@@ -1,4 +1,4 @@
-package algorithms.regex.find_a_word;
+package regex.applications.find_a_word;
 
 import java.io.BufferedReader;
 import java.io.IOException;

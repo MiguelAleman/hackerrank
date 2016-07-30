@@ -1,4 +1,4 @@
-package algorithms.implementation.grid_search;
+package algorithms.implementation.the_grid_search;
 
 import java.util.Scanner;
 

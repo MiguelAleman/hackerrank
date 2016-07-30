@@ -1,4 +1,4 @@
-package algorithms.regex.saying_hi;
+package regex.applications.saying_hi;
 
 import java.io.BufferedReader;
 import java.io.IOException;

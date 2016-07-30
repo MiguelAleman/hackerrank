@@ -1,4 +1,4 @@
-package algorithms.regex.detecting_valid_latitude_and_logitude_pairs;
+package regex.applications.detecting_valid_latitude_and_logitude_pairs;
 
 import java.io.BufferedReader;
 import java.io.IOException;

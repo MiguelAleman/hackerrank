@@ -1,4 +1,4 @@
-package algorithms.regex.uk_and_usa_part_2;
+package regex.applications.uk_and_usa_part_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

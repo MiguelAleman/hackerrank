@@ -1,4 +1,4 @@
-package regex.regex_basics.matching_specific_characters;
+package regex.character_class.matching_specific_characters;
 
 import java.util.*;
 import java.util.regex.*;

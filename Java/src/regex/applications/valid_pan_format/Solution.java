@@ -1,4 +1,4 @@
-package algorithms.regex.valid_pan_format;
+package regex.applications.valid_pan_format;
 
 import java.io.*;
 

@@ -1,4 +1,4 @@
-package algorithms.regex.ip_address_validation;
+package regex.applications.ip_address_validation;
 
 import java.io.BufferedReader;
 import java.io.IOException;

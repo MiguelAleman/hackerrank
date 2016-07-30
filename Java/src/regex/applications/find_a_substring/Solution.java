@@ -1,4 +1,4 @@
-package algorithms.regex.find_a_substring;
+package regex.applications.find_a_substring;
 
 import java.io.BufferedReader;
 import java.io.IOException;

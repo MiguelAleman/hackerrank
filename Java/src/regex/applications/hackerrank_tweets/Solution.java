@@ -1,4 +1,4 @@
-package algorithms.regex.hackerrank_tweets;
+package regex.applications.hackerrank_tweets;
 
 import java.io.BufferedReader;
 import java.io.IOException;

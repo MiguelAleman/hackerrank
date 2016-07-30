@@ -1,4 +1,4 @@
-package regex.regex_basics.matching_digits_and_non_digit_characters;
+package regex.introduction.matching_digits_and_non_digit_characters;
 
 
 import java.util.*;

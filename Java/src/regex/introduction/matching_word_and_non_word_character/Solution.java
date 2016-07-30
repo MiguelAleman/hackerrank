@@ -1,4 +1,4 @@
-package regex.regex_basics.matching_word_and_non_word_character;
+package regex.introduction.matching_word_and_non_word_character;
 
 import java.util.*;
 import java.util.regex.*;

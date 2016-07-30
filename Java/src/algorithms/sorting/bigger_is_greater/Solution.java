@@ -1,4 +1,4 @@
-package algorithms.strings.bigger_is_greater;
+package algorithms.sorting.bigger_is_greater;
 
 import java.util.Arrays;
 import java.util.Scanner;

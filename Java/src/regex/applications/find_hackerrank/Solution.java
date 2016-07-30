@@ -1,4 +1,4 @@
-package algorithms.regex.find_hackerrank;
+package regex.applications.find_hackerrank;
 
 import java.io.BufferedReader;
 import java.io.IOException;

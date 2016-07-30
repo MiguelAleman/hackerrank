@@ -1,4 +1,4 @@
-package algorithms.regex.utopian_identification_number;
+package regex.applications.utopian_identification_number;
 
 import java.io.BufferedReader;
 import java.io.IOException;

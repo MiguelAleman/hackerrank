@@ -1,4 +1,4 @@
-package algorithms.regex.the_british_and_american_style_of_spelling;
+package regex.applications.the_british_and_american_style_of_spelling;
 
 import java.io.BufferedReader;
 import java.io.IOException;

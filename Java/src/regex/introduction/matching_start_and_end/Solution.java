@@ -1,4 +1,4 @@
-package regex.regex_basics.matching_start_and_end;
+package regex.introduction.matching_start_and_end;
 
 import java.util.*;
 import java.util.regex.*;
