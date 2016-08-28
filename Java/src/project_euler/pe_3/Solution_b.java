@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 /**
  * Created by Miguel on 8/28/16.
+ * Largest Prime Factor
  * This solution is too slow
  */
 public class Solution_b {

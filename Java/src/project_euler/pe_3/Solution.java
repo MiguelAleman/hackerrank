@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * Created by Miguel on 8/28/16.
+ * Largest Prime Factor
  */
 public class Solution {
 

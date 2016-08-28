@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * Created by Miguel on 9/8/15.
+ * Largest Palindrome Product
  */
 public class Solution {
     public static void main(String[] args) {

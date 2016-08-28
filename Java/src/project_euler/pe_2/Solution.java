@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * Created by Miguel on 9/7/15.
+ * Even Fibonacci Numbers
  */
 public class Solution {
     public static void main(String[] args) {
