@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Python/.idea/Python.iml" filepath="$PROJECT_DIR$/Python/.idea/Python.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/hackerrank.iml" filepath="$PROJECT_DIR$/Java/hackerrank.iml" />
     </modules>
   </component>
