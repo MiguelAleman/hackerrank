@@ -1,4 +1,4 @@
-if __name__ == '__main__':
+def main():
     n = int(input())
     arr = list(map(int, input().split()))
     x = -102
@@ -10,3 +10,7 @@ if __name__ == '__main__':
         elif i > x and i != y:
             x = i
     print(x)
+
+
+if __name__ == '__main__':
+    main()
