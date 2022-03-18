@@ -1,4 +1,4 @@
-def print_formatted(number):
+def print_formatted_v1(number):
     """
     Using built-in functions
     """
@@ -15,7 +15,7 @@ def print_formatted(number):
     print('\n'.join(lines[::-1]))
 
 
-def print_formatted_2(number):
+def print_formatted_v2(number):
     """
     Using string formatting
     """
@@ -39,6 +39,6 @@ def print_formatted_2(number):
 
 if __name__ == '__main__':
     n = int(input())
-    print_formatted(n)
+    print_formatted_v1(n)
     print('\n')
-    print_formatted_2(n)
+    print_formatted_v2(n)
