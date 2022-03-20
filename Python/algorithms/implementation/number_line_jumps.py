@@ -14,30 +14,23 @@
 # res = x2 + v2 * c2
 
 
-def kangaroo_v1(x1, v1, x2, v2):
-    """
-    Too slow
-    """
+def kangaroo(x1, v1, x2, v2):
     previous_distance = abs(x1 - x2)
     while True:
         x1 = x1 + v1
         x2 = x2 + v2
         if x1 - x2 == 0:
             return 'YES'
-        if abs(x1 - x2) > previous_distance:
+        if abs(x1 - x2) > previous_distance or abs(x1 - x2) == previous_distance:
             return 'NO'
         previous_distance = abs(x1 - x2)
-
-
-def kangaroo_v2(x1, v1, x2, v2):
-    return 'YES'
 
 
 if __name__ == '__main__':
     # fptr = open(os.environ['OUTPUT_PATH'], 'w')
     first_multiple_input = input().rstrip().split()
     x1, v1, x2, v2 = tuple(map(int, first_multiple_input))
-    result = kangaroo_v2(x1, v1, x2, v2)
+    result = kangaroo(x1, v1, x2, v2)
     print(result)
     # fptr.write(result + '\n')
     # fptr.close()
