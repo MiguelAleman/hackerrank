@@ -7,6 +7,7 @@
 #  2. INTEGER_ARRAY b
 #
 
+
 def compare_triplets(a, b):
     alice = 0
     bob = 0
