@@ -1,10 +1,3 @@
-# import math
-# import os
-# import random
-# import re
-# import sys
-
-
 #
 # Complete the 'compareTriplets' function below.
 #
@@ -26,11 +19,7 @@ def compare_triplets(a, b):
 
 
 if __name__ == '__main__':
-    # fptr = open(os.environ['OUTPUT_PATH'], 'w')
     a = list(map(int, input().rstrip().split()))
     b = list(map(int, input().rstrip().split()))
     result = compare_triplets(a, b)
     print(' '.join([str(r) for r in result]))
-    # fptr.write(' '.join(map(str, result)))
-    # fptr.write('\n')
-    # fptr.close()
